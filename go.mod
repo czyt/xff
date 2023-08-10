@@ -1,4 +1,4 @@
-module github.com/czyt/xff
+module github.com/tiny-lib/xff
 
 go 1.20
 
